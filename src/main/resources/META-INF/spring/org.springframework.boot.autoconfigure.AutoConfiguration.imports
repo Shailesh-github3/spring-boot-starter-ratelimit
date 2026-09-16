@@ -1,0 +1,2 @@
+com.shailesh.ratelimit.db.DatabaseTierAutoConfiguration
+com.shailesh.ratelimit.RateLimitAutoConfiguration
